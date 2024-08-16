@@ -2828,13 +2828,13 @@ h6 {
 
 @media (max-width: 991px) {
   .navList li a {
-    font-size: 2.75rem;
+    font-size: 1.5rem;
   }
 }
 
 @media (max-width: 575px) {
   .navList li a {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
   }
 }
 
