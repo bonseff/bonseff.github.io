@@ -118,7 +118,7 @@
   --bg-light-1: #f5f6f8;
   --bg-light-2: #F1F6F9;
   --bg-dark-1: #131419;
-  --bg-dark-2: #1E2027;
+  --bg-dark-2: #fdfbef;
   --bg-dark-3: #0D0D12;
   --bg-dark-4: #0A0A0F;
   --font-light: rgb(197, 197, 197);
@@ -4657,25 +4657,25 @@ body.is-cursor-active * {
 
 .masthead.-type-work-1 .masthead__title {
   line-height: 1.05;
-  font-size: 6.25rem;
+  font-size: 4.25rem;
   letter-spacing: -0.01em;
 }
 
 @media (max-width: 991px) {
   .masthead.-type-work-1 .masthead__title {
-    font-size: 5.625rem;
+    font-size: 3.25rem;
   }
 }
 
 @media (max-width: 767px) {
   .masthead.-type-work-1 .masthead__title {
-    font-size: 4.375rem;
+    font-size: 2.25rem;
   }
 }
 
 @media (max-width: 575px) {
   .masthead.-type-work-1 .masthead__title {
-    font-size: 3.5rem;
+    font-size: 2rem;
   }
 }
 
