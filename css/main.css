@@ -122,7 +122,7 @@
   --bg-dark-2: #fdfbef;
   --bg-dark-3: #f5f4e1;
   --bg-dark-4: #0A0A0F;
-  --bg-dark-7: #2d2313;
+  --bg-dark-7: #1a150d;
   --font-light: rgb(197, 197, 197);
   --font-dark: #454545;
 }
@@ -3603,8 +3603,8 @@ body.preloader-visible .preloader__progress {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 3.5rem;
-  height: 3.5rem;
+  width: 8rem;
+  height: 8rem;
   background-color: #FFFFFF;
   opacity: 0;
   -webkit-mask-image: var(--preloader-image);
