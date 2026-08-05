@@ -2661,7 +2661,7 @@ h6 {
 
 .nav .nav-button-back .icon,
 .nav .nav-btn-close .icon {
-  color: white;
+  color: black;
   width: 4rem;
   height: 4rem;
   stroke-width: 0.5;
@@ -2819,7 +2819,7 @@ h6 {
 .navList li a {
   cursor: pointer;
   display: inline-block;
-  color: white;
+  color: black;
   padding: 8px 0;
   font-size: 1.5rem;
   line-height: 1.2;
