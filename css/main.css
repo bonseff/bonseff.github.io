@@ -115,12 +115,14 @@
 
 :root {
   --accent-color: #FF002E;
+  --accent-color2: #d6cba8;
   --bg-light-1: #f5f6f8;
   --bg-light-2: #F1F6F9;
   --bg-dark-1: #131419;
   --bg-dark-2: #fdfbef;
   --bg-dark-3: #f5f4e1;
   --bg-dark-4: #0A0A0F;
+  --bg-dark-7: #2d2313;
   --font-light: rgb(197, 197, 197);
   --font-dark: #454545;
 }
@@ -3588,7 +3590,7 @@ body.preloader-visible .preloader__progress {
   pointer-events: auto;
   height: 100%;
   width: 100%;
-  background-color: var(--bg-dark-4);
+  background-color: var(--bg-dark-7);
   box-shadow: 0 0 1.25rem rgba(0, 0, 0, 0.12);
   will-change: transform;
   transform-origin: bottom;
@@ -3621,7 +3623,7 @@ body.preloader-visible .preloader__progress {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: var(--accent-color);
+  background-color: var(--accent-color2);
   transform-origin: bottom;
   transform: scaleY(0);
 }
